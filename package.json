@@ -1,5 +1,5 @@
 {
-  "name": "jscord",
+  "name": "discordnode",
   "version": "0.0.1",
   "description": "An Library for the DiscordApp API made for Node.js",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/FlanScarlet/jscord.git"
+    "url": "git+https://github.com/suiika/discordnode.git"
   },
   "keywords": [
     "discord",
@@ -18,12 +18,12 @@
     "discordapp",
     "applications"
   ],
-  "author": "FlanScarlet",
+  "author": "Suiika",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/FlanScarlet/jscord/issues"
+    "url": "https://github.com/suiika/discordnode/issues"
   },
-  "homepage": "https://github.com/FlanScarlet/jscord#readme",
+  "homepage": "https://github.com/suiika/discordnode#readme",
   "dependencies": {
     "bluebird": "^3.4.6",
     "chalk": "^1.1.3",

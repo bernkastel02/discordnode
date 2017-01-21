@@ -10,3 +10,5 @@
     <a href="https://travis-ci.org/FlanScarlet/discord-node"><img alt="" src="https://img.shields.io/travis/FlanScarlet/discord-node.svg?style=flat-square"></a>
 </p>
 <hr>
+
+### Click [here](https://github.com/suiika/discordnode/tree/master/docs/README.md) for documentation!
