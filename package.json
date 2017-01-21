@@ -1,0 +1,34 @@
+{
+  "name": "jscord",
+  "version": "0.0.1",
+  "description": "An Library for the DiscordApp API made for Node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm install"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FlanScarlet/jscord.git"
+  },
+  "keywords": [
+    "discord",
+    "javascript",
+    "client",
+    "lib",
+    "discordapp",
+    "applications"
+  ],
+  "author": "FlanScarlet",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/FlanScarlet/jscord/issues"
+  },
+  "homepage": "https://github.com/FlanScarlet/jscord#readme",
+  "dependencies": {
+    "bluebird": "^3.4.6",
+    "chalk": "^1.1.3",
+    "eventemitter3": "^2.0.2",
+    "request": "^2.75.0",
+    "ws": "^1.1.1"
+  }
+}

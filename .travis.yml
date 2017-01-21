@@ -1,0 +1,9 @@
+# Travis CLI File
+language: node_js
+node_js:
+  - "6"
+  - "6.1"
+cache:
+    directories:
+        - node_modules
+install: npm install
