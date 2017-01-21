@@ -1,3 +1,4 @@
+"use strict";
 const Client = require("./lib/Client");
 const Request = require("./lib/handlers/Requester");
 

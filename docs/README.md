@@ -3,7 +3,7 @@
     <h5 align="center">A library for the DiscordApp API made for Node.js.</h5>
 </p>
 
-## Welcome to the DiscordNode documentation!
+## Welcome to the Discord Node documentation!
 ###### As the library becomes developed, this will become more documented!
 
 #### Currently Documented Features:
