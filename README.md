@@ -42,6 +42,6 @@ Useful things
 -------------
 [Documentation](https://github.com/suiika/discordnode/tree/master/docs/README.md)<br>
 [NPM Package](https://www.npmjs.com/package/discord-node)<br>
-[Github Repository](https://github.com/suiika/discordnodeb)
+[Github Repository](https://github.com/suiika/discordnode)
 
 
