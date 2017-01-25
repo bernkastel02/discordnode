@@ -30,7 +30,7 @@ bot.on("ready", () => {
 
 bot.on("messageSent", (msg) => {
     if (msg.content === "!ping") {
-        bot.sendMessage(msg.channel_id, "Pong!")
+        bot.sendMessage(msg.channel.id, "Pong!")
     }
 })
 
