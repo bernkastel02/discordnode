@@ -1,5 +1,6 @@
 const DNode = require("discord-node");
 const bot = new DNode("Bot Token")
+// Replace Bot Token with your token
 
 bot.on("ready", () => {
     console.log("RDY 4 ADVENSHUR");
