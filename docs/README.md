@@ -17,3 +17,8 @@ Client
 
 ###### [Events](https://github.com/suiika/discordnode/blob/master/docs/Events.md)
 ###### [Client Class](https://github.com/suiika/discordnode/blob/master/docs/Client Class.md)
+
+Message
+======
+
+###### [Message Class](https://github.com/suiika/discordnode/blob/master/docs/Message Class.md)
