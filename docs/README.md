@@ -10,15 +10,15 @@
 Currently Documented Features
 -----------------------------
 
-###### [Reference Page](https://github.com/suiika/discordnode/blob/master/docs/Reference Page.md)
+###### [Reference Page](https://github.com/reimuuhakurei/discordnode/blob/master/docs/Reference Page.md)
 
 Client
 =====
 
-###### [Events](https://github.com/suiika/discordnode/blob/master/docs/Events.md)
-###### [Client Class](https://github.com/suiika/discordnode/blob/master/docs/Client Class.md)
+###### [Events](https://github.com/reimuuhakurei/discordnode/blob/master/docs/Events.md)
+###### [Client Class](https://github.com/reimuuhakurei/discordnode/blob/master/docs/Client Class.md)
 
 Message
 ======
 
-###### [Message Class](https://github.com/suiika/discordnode/blob/master/docs/Message Class.md)
+###### [Message Class](https://github.com/reimuuhakurei/discordnode/blob/master/docs/Message Class.md)

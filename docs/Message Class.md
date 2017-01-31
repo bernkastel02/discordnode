@@ -31,4 +31,4 @@ Message Methods
 | Parameters | Description | Type  |
 | ------------- |:-------------:| -----:|
 | content | The content to edit the message to. | [String](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String) |
-#### Returns [Promise](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise)<[Message](https://github.com/suiika/discordnode/blob/master/docs/Message Class.md)>
+#### Returns [Promise](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise)<[Message](https://github.com/reimuuhakurei/discordnode/blob/master/docs/Message Class.md)>
